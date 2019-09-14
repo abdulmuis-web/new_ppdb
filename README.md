@@ -10,4 +10,4 @@ Urutan penggunaan adalah sebagai berikut
 7. Pendaftar dapat mengecek hasil sementara melalui beranda dengan memilih sekolah yang dituju
 
 Aplikasi ini belum selesai.
-Terimakasih..
+Terimakasih dan selamat menyelesaikan aplikasi ini
